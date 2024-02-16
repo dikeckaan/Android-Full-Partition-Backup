@@ -5,7 +5,7 @@ This project consists of two batch scripts designed to facilitate the backup of 
 ## Prerequisites
 
 - ADB installed on your system and added to the system's PATH.
-- Connected Android device with USB debugging enabled or Custom Recovery (TWRP, OrangeFOX, etc...)
+- Connected Android device with USB debugging enabled and root or Custom Recovery (TWRP, OrangeFOX, etc...)
 
 ## Scripts
 
